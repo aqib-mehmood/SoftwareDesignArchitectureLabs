@@ -1,0 +1,5 @@
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab04\SDALab04\bin\Debug\SDALab04.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab04\SDALab04\bin\Debug\SDALab04.pdb
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab04\SDALab04\obj\x86\Debug\SDALab04.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab04\SDALab04\obj\x86\Debug\SDALab04.pdb
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab04\SDALab04\obj\x86\Debug\SDALab04.csprojResolveAssemblyReference.cache
