@@ -1,0 +1,4 @@
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab05\SDALab05\bin\Debug\SDALab05.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab05\SDALab05\bin\Debug\SDALab05.pdb
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab05\SDALab05\obj\x86\Debug\SDALab05.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab05\SDALab05\obj\x86\Debug\SDALab05.pdb

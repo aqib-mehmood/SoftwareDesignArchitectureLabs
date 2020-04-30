@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDALab05", "SDALab05\SDALab05.csproj", "{E74D7532-7384-47C9-AE47-7618149B0AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74D7532-7384-47C9-AE47-7618149B0AEB}.Debug|x86.ActiveCfg = Debug|x86
+		{E74D7532-7384-47C9-AE47-7618149B0AEB}.Debug|x86.Build.0 = Debug|x86
+		{E74D7532-7384-47C9-AE47-7618149B0AEB}.Release|x86.ActiveCfg = Release|x86
+		{E74D7532-7384-47C9-AE47-7618149B0AEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
