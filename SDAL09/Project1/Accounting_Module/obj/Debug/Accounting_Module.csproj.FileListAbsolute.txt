@@ -1,0 +1,6 @@
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\bin\Debug\Accounting_Module.dll
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\bin\Debug\Accounting_Module.pdb
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\obj\Debug\Accounting_Module.csprojAssemblyReference.cache
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\obj\Debug\Accounting_Module.csproj.CoreCompileInputs.cache
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\obj\Debug\Accounting_Module.dll
+E:\4th Semester\08-SDA Lab\Lab Performance\SDAL09\Project1\Accounting_Module\obj\Debug\Accounting_Module.pdb
