@@ -1,0 +1,4 @@
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab11Task01\SDALab11Task01\bin\Debug\SDALab11Task01.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab11Task01\SDALab11Task01\bin\Debug\SDALab11Task01.pdb
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab11Task01\SDALab11Task01\obj\x86\Debug\SDALab11Task01.exe
+E:\4th Semester\08-SDA Lab\Lab Performance\SDALab11Task01\SDALab11Task01\obj\x86\Debug\SDALab11Task01.pdb
