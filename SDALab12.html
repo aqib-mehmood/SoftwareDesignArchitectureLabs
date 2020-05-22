@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SDAL12</title>
+	<style type="text/css">
+		body{
+			background-color: #E9EBEE;
+			text-align: center;
+		}
+		header{
+			background-color: #365899;
+			color: white;
+			padding: 1px;
+			margin-bottom: 50px;
+		}
+		.btn{
+			background-color: #365899;
+			color: white;
+			border-style: none;
+			border-radius: 3px;
+			padding: 10px 75px 
+
+		}
+		.btn:hover{
+			cursor: pointer;
+			
+		}
+		a{
+			text-decoration: none;
+		}
+		.inner p{
+			font-size: 20px;
+		}
+		
+		input{
+			padding: 5px;
+			
+		}
+	</style>
+	<script type="text/javascript">
+		function btn_click() {
+			// body...
+			var pass = document.getElementById("user_pass").value;
+			var get_name = document.getElementById("user_name").value;
+
+			if (get_name == "AqibAwan" && pass == "aqib") 
+			{
+				alert("Successfully Log In");
+			}
+			else
+			{
+				alert("Invalid User Name or Password");
+
+			}
+			
+		}
+	</script>
+</head>
+<body>
+	<header>
+		<h1>
+			facebook
+		</h1>
+	</header>
+	<div class="container">
+		<div class="inner">
+		<p>Log in to Facebook</p>
+		<form>
+		<input type="text" name="username" placeholder="Enter user name" id="user_name">
+		<br>
+		<br>
+		<input type="password" name="userpass" placeholder="Enter password" id="user_pass">
+		<br>
+		<br>
+		<button class="btn" type="button" name="btn_login" onclick="btn_click()">Log In</button>
+		<br>
+		<br>
+		<a href="https://www.facebook.com/login/" target="_blank">Forgetten account?</a>
+		<a href="https://www.facebook.com/login/" target="_blank"> Sign up for Facebook</a>
+		<br>
+		</form>
+		</div>
+	</div>
+	
+</body>
+</html>
